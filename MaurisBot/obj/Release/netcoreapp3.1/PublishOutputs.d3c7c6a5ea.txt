@@ -1,0 +1,5 @@
+C:\Users\rcsilva\Desktop\Maurisbot\MaurisBot.exe
+C:\Users\rcsilva\Desktop\Maurisbot\MaurisBot.dll
+C:\Users\rcsilva\Desktop\Maurisbot\MaurisBot.deps.json
+C:\Users\rcsilva\Desktop\Maurisbot\MaurisBot.runtimeconfig.json
+C:\Users\rcsilva\Desktop\Maurisbot\MaurisBot.pdb
