@@ -33,7 +33,7 @@ exemplo de chamada:
 
 # Precauções
 
-- aplicativo não funcionará/corrigirá caso:
+O aplicativo não funcionará/corrigirá caso:
 - Seja passado um diretório raiz com pastas bloqueadas (os discos C:\ D:\ raiz costumam ter diretórios com acesso negado);
 - Os diretórios não estejam no formato padrão (por exemplo, em negrito, D:\Portais\\\*\*C###\_APW\_NOMECLIENTE\Server\ApWebDispatcher\\.net\web.config\*\*);
 - Caso algum dos parâmetros não exista ou esteja vazio, o aplicativo ignorará (não criará o caminho para o parâmetro em específico);
