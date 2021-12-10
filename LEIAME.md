@@ -1,18 +1,12 @@
 ﻿
 
-|Informações           |Descrição
-
-|----------------------|-------------------------------
-
-|Linguagem             |C# .net Core App 3.1
-
-|Saída                 |Executável (exe)
-
-|Tipo                  |Standalone
-
-|Runtime Destino       |Win-x64
-
-|Parâmetro de execução |String Caminho
+Informações           |Descrição
+----------------------|---------------------
+Linguagem             |C# .net Core App 3.1
+Saída                 |Executável (exe)
+Tipo                  |Standalone
+Runtime Destino       |Win-x64
+Parâmetro de execução |String Caminho
 
 # Descrição
 
